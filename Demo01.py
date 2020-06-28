@@ -14,11 +14,3 @@
 # demo2
 # name = input("请输入您的姓名：")
 # print("你好，"+name)
-
-# demo3
-number1 = input("请输入1到100之间的数字：")
-number = int(number1)
-if(1 <= number <= 100):
-    print("你好漂亮")
-else:
-    print("你好丑")
